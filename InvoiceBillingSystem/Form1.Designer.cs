@@ -1,4 +1,4 @@
-﻿namespace InvoiceBillingSystem
+﻿namespace BillingInvoiceApp
 {
     partial class Form1
     {
